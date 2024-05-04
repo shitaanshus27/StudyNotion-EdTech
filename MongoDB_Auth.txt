@@ -1,2 +1,0 @@
-MongoDB : zXhfZSABqwsdGAWC
-mongodb+srv://shitaanshus27:zXhfZSABqwsdGAWC@cluster0.jtmjgcs.mongodb.net/?retryWrites=true&w=majority
